@@ -1,6 +1,7 @@
 ## Olá, seja bem-vind@ ao meu perfil do GitHub! :)
 - 💡 Graduando em Engenharia da Computação pela Universidade Federal do Rio Grande do Norte (UFRN). <br>
-- 📷 Trabalho com processamento de imagem (Python), sistemas embarcados (C++) e desenvolvimento web (ReactJS e NextJS).
+- 📷 Trabalho com processamento de imagem (Python), sistemas embarcados (C++) e desenvolvimento web (ReactJS e NextJS).<br>
+- 📚 Inglês avançado: leitura, escrita e oralidade.
 
 ## Experiências
 🚗 AI URA (Julho, 2024 - presente): Processamento de imagens, sistemas embarcados, comunicação mqtt. <br><br> 
@@ -12,9 +13,7 @@
 ## Meus Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcostavar3s&layout=compact&theme=midnight-purple&custom_title=Linguagens%20Mais%20Usadas&card_width=950)
 
-<!--
 <div style="display: inline_block"><br>
-   <h3>Projetos que trabalho atualmente:</h3>
      <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
      <img align="center" alt="Marcos-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 
@@ -22,4 +21,15 @@
   <img align="center" alt="Marcos-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
--->
+
+##
+
+<div>
+  <a href="mailto:marcosfilho1411@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="www.linkedin.com/in/marcos-aurélio-tavares-filho" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+ 
