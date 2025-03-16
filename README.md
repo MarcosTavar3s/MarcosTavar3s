@@ -4,7 +4,7 @@
 - 📚 Inglês avançado: leitura, escrita e oralidade.
 
 ## Experiências
-✈️ CarKará AeroDesing (Outubro, 2024 - presente): Eletrônica, sistemas embarcados, protocolos de comunicação, C/C++. <br><br> 
+✈️ CarKará AeroDesign (Outubro, 2024 - presente): Eletrônica, sistemas embarcados, protocolos de comunicação, C/C++. <br><br> 
 🚗 AI URA (Julho, 2024 - presente): Processamento de imagens, sistemas embarcados, comunicação mqtt. <br><br> 
 ⚖️ Balança Industrial com IoT (Janeiro, 2023 - Dezembro, 2023): ESP32, node-red, comunicação mqtt. <br><br>
 ⚙️ IFRN Geeks (Janeiro, 2021 - Dezembro, 2023): Sistemas embarcados e braços robóticos. <br><br>
