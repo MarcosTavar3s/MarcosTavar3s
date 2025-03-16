@@ -1,9 +1,10 @@
 ## Olá, seja bem-vind@ ao meu perfil do GitHub! :)
 - 💡 Graduando em Engenharia da Computação pela Universidade Federal do Rio Grande do Norte (UFRN). <br>
-- 📷 Trabalho com processamento de imagem (Python), sistemas embarcados (C++) e desenvolvimento web (ReactJS e NextJS).<br>
+- 📷 Trabalhando com processamento de imagem (Python), sistemas embarcados (C++) e eletrônica.<br>
 - 📚 Inglês avançado: leitura, escrita e oralidade.
 
 ## Experiências
+✈️ CarKará AeroDesing (Outubro, 2024 - presente): Eletrônica, sistemas embarcados, protocolos de comunicação, C/C++. <br><br> 
 🚗 AI URA (Julho, 2024 - presente): Processamento de imagens, sistemas embarcados, comunicação mqtt. <br><br> 
 ⚖️ Balança Industrial com IoT (Janeiro, 2023 - Dezembro, 2023): ESP32, node-red, comunicação mqtt. <br><br>
 ⚙️ IFRN Geeks (Janeiro, 2021 - Dezembro, 2023): Sistemas embarcados e braços robóticos. <br><br>
