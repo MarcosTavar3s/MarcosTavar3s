@@ -3,12 +3,13 @@
 - 📷 Trabalhando com processamento de imagem (Python), sistemas embarcados (C++) e eletrônica.<br>
 - 📚 Inglês avançado: leitura, escrita e oralidade.
 
-## Experiências
-🚗 AI URA (Julho, 2024 - presente): Processamento de imagens, sistemas embarcados, comunicação mqtt. <br><br> 
-✈️ CarKará AeroDesign (Outubro, 2024 - Maio, 2025): Eletrônica, sistemas embarcados, protocolos de comunicação, C/C++. <br><br> 
+## Projetos
+🐁 PyMiceTracking (Agosto, 2025 - presente): visão computacional, desenvolvimento de interfaces. <br><br> 
+🚗 AI URA (Julho, 2024 - presente): processamento de imagens, sistemas embarcados, comunicação mqtt. <br><br> 
+✈️ CarKará AeroDesign (Outubro, 2024 - Junho, 2025): eletrônica, sistemas embarcados, protocolos de comunicação, C/C++. <br><br> 
 ⚖️ Balança Industrial com IoT (Janeiro, 2023 - Dezembro, 2023): ESP32, node-red, comunicação mqtt. <br><br>
-⚙️ IFRN Geeks (Janeiro, 2021 - Dezembro, 2023): Sistemas embarcados e braços robóticos. <br><br>
-📹 PRIPIS (Dezembro, 2021 - Janeiro, 2023): Processamento de imagens, node-red. <br><br>
+⚙️ IFRN Geeks (Janeiro, 2021 - Dezembro, 2023): sistemas embarcados, braços robóticos. <br><br>
+📹 PRIPIS (Dezembro, 2021 - Janeiro, 2023): processamento de imagens, node-red. <br><br>
 
   
 ## Meus Status
