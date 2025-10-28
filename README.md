@@ -4,8 +4,8 @@
 - 📚 Inglês avançado: leitura, escrita e oralidade.
 
 ## Projetos
-🐁 PyMiceTracking (Agosto, 2025 - presente): visão computacional, desenvolvimento de interfaces. <br><br> 
-🚗 AI URA (Julho, 2024 - presente): processamento de imagens, sistemas embarcados, comunicação mqtt. <br><br> 
+🐁 PyMiceTracking (Agosto, 2025 - presente): modelagem, visão computacional, desenvolvimento de interfaces. <br><br> 
+🚗 AI URA (Julho, 2024 - presente): processamento de imagens, sistemas embarcados, comunicação mqtt, reinforcement learning. <br><br> 
 ✈️ CarKará AeroDesign (Outubro, 2024 - Junho, 2025): eletrônica, sistemas embarcados, protocolos de comunicação, C/C++. <br><br> 
 ⚖️ Balança Industrial com IoT (Janeiro, 2023 - Dezembro, 2023): ESP32, node-red, comunicação mqtt. <br><br>
 ⚙️ IFRN Geeks (Janeiro, 2021 - Dezembro, 2023): sistemas embarcados, braços robóticos. <br><br>
